@@ -1,4 +1,4 @@
-# js-pad
+# vue-cli template(webapp)
 
 > A Vue.js project
 
